@@ -95,7 +95,7 @@
     "query-registry": "^2.5.0",
     "read-nth-line": "^1.0.3",
     "rebuild": "^0.1.2",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "recursive-readdir-async": "^1.2.1",
     "redis": "3.1.2",
     "resolve-from": "^5.0.0",
